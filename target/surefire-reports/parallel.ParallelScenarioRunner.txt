@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: parallel.ParallelScenarioRunner
+-------------------------------------------------------------------------------
+Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.209 s - in parallel.ParallelScenarioRunner
